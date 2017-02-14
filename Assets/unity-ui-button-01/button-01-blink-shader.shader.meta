@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 110ba2c24a6a5ee4eaacb0753a65d39b
+timeCreated: 1487050683
+licenseType: Free
+ShaderImporter:
+  defaultTextures:
+  - _Mask: {fileID: 2800000, guid: 7725374b8b8c12247beaca908479c86f, type: 3}
+  - _Blik: {fileID: 2800000, guid: 6048b07ea9429454f9e7d3245607af80, type: 3}
+  - _Glass: {fileID: 2800000, guid: e25b4426d6851324d9b7edc4df82dc20, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
